@@ -29,3 +29,7 @@ To manipulate files within the webroot, change the permissions:
     sudo chmod -R 0755 /var/www/html
 Now you can use `send_mail.py` to send mails and `check_activity.py` to track the sent mails.
 Make sure that you change the variables in both the scripts according to your setup.
+
+## Demo
+[This](https://u.teknik.io/1owqz.mp4) video shows me using the scripts.
+I checked the mail on my phone, so it shows my Phone OS version and IP Address.
